@@ -32,13 +32,13 @@ article {
 aside {
   background-color: #ff99ff;
   width: 35%;
-  foat: left;
-  main-height: 60vh;
+  float: left;
+  min-height: 60vh;
 }
 
 footer {
   background-color: #ff00ff;
   width: 100%;
-  float: left; 
+  float: left;
   height: 10vh;
 }
